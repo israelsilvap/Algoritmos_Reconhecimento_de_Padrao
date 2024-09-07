@@ -1,5 +1,5 @@
-clear all;
-clc;
+% clear all;
+% clc;
 
 % Carregar os dados
 Input1 = load("Input1.mat");
